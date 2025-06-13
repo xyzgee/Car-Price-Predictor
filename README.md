@@ -65,9 +65,9 @@ This project predicts the **resale price of used cars** using machine learning m
 
 ## 🌐 Streamlit App Demo
 
-<p align="center">
-  <img src="screenshots/streamlit_demo.png" alt="Streamlit App Screenshot" width="700px"/>
-</p>
+To try it, ensure that your system has already installed the streamlit modules. If not, run these commands in your terminal,
+pip install streamlit (if you got any issues) then try this command, python -m streamlit run app.py 
+ 
 
 ### 🖱️ Try it locally
 
